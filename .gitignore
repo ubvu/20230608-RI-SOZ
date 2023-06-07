@@ -1,0 +1,6 @@
+# Ignore output
+20230606-RI-SOZ_files/
+20230606-RI-SOZ.html
+
+# Ignore stuff
+.DS_Store
