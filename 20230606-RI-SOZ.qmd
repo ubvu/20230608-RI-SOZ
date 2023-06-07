@@ -1,0 +1,17 @@
+---
+title: "Research Intelligence"
+author: "VU Research Intelligence (<researchintelligence.ubvu@vu.nl>)"
+institute: "UB VU"
+date: "2023/06/08"
+date-format: "D MMMM YYYY"
+format:
+  revealjs:
+    theme: [simple,"../stylefiles/VU-revealjs.scss"]
+    template-partials:
+      - title-slide.html
+    preview-links: auto
+    callout-icon: false
+    center: false
+---
+
+## Agenda
